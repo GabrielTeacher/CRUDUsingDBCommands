@@ -12,6 +12,8 @@ namespace CRUDUsingDBCommands
         static void Main(string[] args)
         {
             Display d = new Display();
+            //sss
+            int a = 5;
         }
     }
 }
