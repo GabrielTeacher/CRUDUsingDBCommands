@@ -13,7 +13,7 @@ namespace CRUDUsingDBCommands
         {
             Display d = new Display();
             //sss
-            int a = 5;
+            int b = 5;
         }
     }
 }
