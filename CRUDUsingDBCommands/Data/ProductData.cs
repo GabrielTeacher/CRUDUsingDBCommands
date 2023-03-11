@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace CRUDUsingDBCommands.Data
 {
-    class ProductData
+   public class ProductData
     {
         public List<Product> GetAll()
         {
